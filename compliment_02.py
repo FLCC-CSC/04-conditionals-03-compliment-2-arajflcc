@@ -15,6 +15,14 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
+#complimenting user based on the input from the user
+
+user_answer = input("Would you like a compliment? ")
+if user_answer == "yes":
+    print("You have wonderful eyes.")
+else:
+    print("No compliment for you!") 
+print("Thank you for playing.")
 
 
 
@@ -71,7 +79,7 @@ Thank you for playing.
 
 1. Did you struggle with this lab (YES/NO)?
 
-
+NO. I tried to write two different coding for this lab. Tested it and got the same results.  
 
 
 
